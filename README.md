@@ -5,6 +5,7 @@ You can access link by clicking
 - Linked to your Tableau Public workbook that includes:
 
 15 Total "Phenomenon" Visualizations
+
 Jersey City Growth Percentage by User Type
 https://public.tableau.com/profile/eliana.suarez#!/vizhome/BycecleRidershipChangesbyUsertupe/JerseyCityGrowthPercentagebyUserType?publish=yes
 
@@ -19,6 +20,7 @@ https://public.tableau.com/trusted/Eor2ZElVSlqLHUt08WEbmQ==:w5e0FN2fek436SK3HqhM
 
     
 2 City Official Map and Dashboards
+
 Starting Journey Comparison Map
 https://public.tableau.com/profile/eliana.suarez#!/vizhome/JCMonthlyChangesinBikeRidership/StartingJourneyComparisonRidershipbyLocation?publish=yes
 
