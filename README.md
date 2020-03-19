@@ -27,9 +27,7 @@ https://public.tableau.com/profile/eliana.suarez#!/vizhome/JCMonthlyChangesinBik
 Ending Journey Comparison Map 
 https://public.tableau.com/profile/eliana.suarez#!/vizhome/EndingJourneyComparisonMap/EndingJourneyComparisonRidershipbyLocation?publish=yes
 
-2 Stories
+1 Stories
 
-New Jersey Ridership Popularity around the Year                   https://public.tableau.com/profile/eliana.suarez#!/vizhome/JCMonthlyChangesinBikeRidership/JerseyCityMonthlyChangesinBikeRidership?publish=yes
-                             
-New Jersey Ridership Popularity by Demographic 
-https://public.tableau.com/profile/eliana.suarez#!/vizhome/BycecleRidership/BicycleRidershipDemographic?publish=yes
+Jersey City Bicycle Ridership P             https://public.tableau.com/profile/eliana.suarez#!/vizhome/JerseyCityBicycleRidershipChanges/JerseyCityBikeRidership?publish=yes
+
