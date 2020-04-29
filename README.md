@@ -1,7 +1,7 @@
 # Tableau---Citi-Bike-Analytics
 
 #### Descriptiction
-- Collected, organized, and cleaned data found in the Citi Bike Trip History Logs and foundunexpected phenomena.
+- Collected, organized, and cleaned data found in the Citi Bike Trip History Logs and foundunexpected phenomena during 2018
 - Linked to Tableau Public workbook
 
 #### DataSet 
@@ -10,6 +10,9 @@ Citi Bike Data webpage
 (https://www.citibikenyc.com/system-data)
 
 #### Technology 
+- Python 
+- Pandas
+- Tableau
 
 #### Visualizations
 
@@ -20,10 +23,10 @@ https://public.tableau.com/profile/eliana.suarez#!/vizhome/BycecleRidershipChang
 Jersey City Ridership by Gender
 https://public.tableau.com/profile/eliana.suarez#!/vizhome/BicycleRidershipPeakHours/JerseyCityPeakHoursaroundtheyearbyGender-StartingJourney?publish=yes
 
-Bicycle Ridership Peak Hours during the Summer
-https://public.tableau.com/profile/eliana.suarez#!/vizhome/BicycleRidershipPeakHoursduringtheSummer/JerseyCityPeakHoursduringtheSummer?publish=yes
+Bicycle Ridership Summer Peak Hours
+https://public.tableau.com/profile/eliana.suarez#!/vizhome/BicycleRidershipPeakHoursduringtheWinter/JerseyCityPeakHoursduringtheWinter
 
-Bicycle Ridership Peak Hours during the Winter
+Bicycle Ridership Winter Peak Hours 
 https://public.tableau.com/trusted/Eor2ZElVSlqLHUt08WEbmQ==:w5e0FN2fek436SK3HqhMz2r7?:redirUrl=%2Fprofile%2Fapi%2Fpublish%2FBicycleRidershipPeakHoursduringtheWinter%2FJerseyCityPeakHoursduringtheWinter
 
     
@@ -37,5 +40,5 @@ https://public.tableau.com/profile/eliana.suarez#!/vizhome/EndingJourneyComparis
 
 ##### 1 Story
 
-Jersey City Bicycle Ridership P             https://public.tableau.com/profile/eliana.suarez#!/vizhome/JerseyCityBicycleRidershipChanges/JerseyCityBikeRidership?publish=yes
+Jersey City Bicycle Ridership       https://public.tableau.com/profile/eliana.suarez#!/vizhome/JerseyCityBicycleRidershipChanges/JerseyCityBikeRidership?publish=yes
 
