@@ -1,7 +1,7 @@
 # Tableau---Citi-Bike-Analytics
 
 #### Descriptiction
-- Collected, organized, and cleaned data found in the Citi Bike Trip History Logs and foundunexpected phenomena during 2018
+- Collected, organized, and cleaned data found in the Citi Bike Trip History Logs and found unexpected phenomena during 2018
 - Linked to Tableau Public workbook
 
 #### DataSet 
